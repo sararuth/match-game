@@ -1,6 +1,5 @@
 const Card = require('./Card');
-const Board = require('./Board');
-const Game = require('./Game');
+onst Game = require('./Game');
 
 const gameElement = document.querySelector('.game');
 const restartBtn = document.querySelector('.restart');
